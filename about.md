@@ -4,27 +4,29 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+   Hello, this is my first blog as a way of practicing markdown and data science. This site is still under construction.   </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+If you are interested in reaching out, pease message me through [LinkedIn](https://www.linkedin.com/in/han-lee-4824082/).
 
-There are currently two themes built on Poole:
+## Educational Background
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Since I came to the US in 2000, I am honoured to attend two of the most prestigious schools:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [MIT](http://www.mit.edu)
+* [Stanford University](http://www.stanford.edu)
 
-## Setup
+It was my pleasure studying together with some of the world's best scholars and successful people. FYI, learn more about the best schools in the US [USNEWS](usnews.com/best-colleges/rankings/national-universities).
 
-Some fun facts about the setup of this project include:
+## Careers
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Since 2006, I have been working in the financial industry mostly in hedge funds and proprietary trading companies as follows.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
+* [BlackRock](http://blackrock.com): Internship. I met two life mentors through this experience, with whom I still keep in touch.
+* [Amaranth Advisors](https://en.wikipedia.org/wiki/Amaranth_Advisors): The company lost $6B a few months after I joined, an epic fall in the hedge fund industry
+* [EWT/Virtu Financial](www.virtu.com): HFT trading
+* [Citadel Securities](www.citadelsecurities.com): HFT trading
+* Looking for the next opportunity
+
+Feel free to reach me out if open to discuss for the next opportunity with me.
 Thanks for reading!

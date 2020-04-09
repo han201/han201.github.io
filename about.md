@@ -23,11 +23,10 @@ Since 2006, I have been working in the financial industry mostly in hedge funds 
 
 
 * [BlackRock](http://blackrock.com): Internship. I met two life mentors through this experience, with whom I still keep in touch.
-* [Amaranth Advisors](https://en.wikipedia.org/wiki/Amaranth_Advisors): The company lost $6B a few months after I joined, an epic fall in the hedge fund industry
-* [Highbridge Capital](www.highbridge.com): I worked for a global macro trading desk
+* [Amaranth Advisors](https://en.wikipedia.org/wiki/Amaranth_Advisors): The hedge fund went bankrupt a few months after I joined the company losing $6 Billion in the natural gas trading, an epic fall in the hedge fund history
+* [Highbridge Capital](www.highbridge.com): Global macro trading desk
 * [EWT/Virtu Financial](www.virtu.com): HFT trading
 * [Citadel Securities](www.citadelsecurities.com): HFT trading
-* Looking for the next opportunity
 
 Feel free to reach me out if open to discuss for the next opportunity with me.
 Thanks for reading!

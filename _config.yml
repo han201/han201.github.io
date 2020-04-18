@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Han Lee
-tagline:             Finance and Data Science Blog
+tagline:             High Frequency Trading, Data Science, and Machine Learning
 url:                 http://han201.github.io
 paginate:            2
 baseurl:             ""

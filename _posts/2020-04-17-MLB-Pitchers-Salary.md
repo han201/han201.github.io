@@ -29,7 +29,7 @@ Which baseball stats influence the next year's salary for MLB pitchers the most?
 
 [2019 Salary](https://www.usatoday.com/sports/mlb/salaries/)
 
-![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
+![Image test]({{ site.url }}/images/watchyourwords.JPG)
 
 Ater merging two dataset, I got 360 samples 
 

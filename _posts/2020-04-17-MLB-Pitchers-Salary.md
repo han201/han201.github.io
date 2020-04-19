@@ -5,7 +5,7 @@ title: Simple Linear Regression on MLB Pitchers' Salary
 
 This is my second project with Metis Data Science bootcamp.
 I did a simple linear regression analysis (with LASSO regularization) to examine the relationship of an MLB pitcher's salary vs the previous year's stat.
-Here is an [insightful website on Linear Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
+Here is an [insightful website on Linear Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/).
 
 ## Contents
 
@@ -54,17 +54,29 @@ The distribution of the salaries for the sample pitchers were highly skewed righ
 I scaled the dependent variable Y to be lgoSalary = log_10(Salary/555000). Then I did a traditional OLS regression on all 360 samples with the following features:
 
 G: Number of games played
+
 W: Number of wins
+
 L: Numher of losses
+
 WPct: Percentage of wins
+
 CG: Completed games
+
 SHO: Shut out (no runs given)
+
 QS: Quality start (giving out not more than 3 earned runs for at least 6 innings
+
 SV: Saves
+
 QSSV: QS * SV (interaction term)
+
 IP: Innings pitched
+
 BB: walks
+
 ERA: Earned run average
+
 STARTER: dummy variable for being a starter
 
 Only G, QS and SV had statistically significant coefficients with R^2 0.33
@@ -77,7 +89,7 @@ Also, the error term looked random, meaning that the OLS fits well.
 I used LASSO regularization after standardizing the X's. The result was conssistent with the findings from OLS: G, QS, SV, IP and STARTER had positive coefficients while number of losses, walks and ERA had 0 coefficients with the optimal Lamdba. R^2 was 0.31.
 
 
-** Results
+## Results
 
 I repeated the same analysis with subsets of data and found the following:
 
@@ -88,7 +100,7 @@ For relievers, the number of games pitched and the number of saves where the mos
 Lastly, being a STARTER was very important for higher salary, especially for those whose salary was more than $600K, meaning that a junior (1-3rd year in the team) will not get paid much even if he is a starter, once someone is beyond that period, being a starter commands more money than being a reliever.
 
 
-** Future Work
+## Future Work
 
 In fact, MLB player's salary is dictated by 'Major League Baseball Collective Bargaining Agreement' so it is not completly dependent on the players' performance in the previous year.
 For the first 3 years in the league, the team determines how much they pay to the players, so that the salary is near the minimum $555K.

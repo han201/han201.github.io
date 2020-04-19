@@ -104,7 +104,7 @@ Lastly, being a STARTER was very important for higher salary, especially for tho
 
 In fact, MLB player's salary is dictated by 'Major League Baseball Collective Bargaining Agreement' so it is not completly dependent on the players' performance in the previous year.
 For the first 3 years in the league, the team determines how much they pay to the players, so that the salary is near the minimum $555K.
-Then from year 4 to 6, both the player and the team can arbitrage the salary. It is only from year 7 that a player becomes a 'free agent' and can have a contract with any team who can pay the most. For more details, please refer this research paper titled [Determinants of Major League Baseball Player Salaries](https://surface.syr.edu/cgi/viewcontent.cgi?article=1098&context=honors_capstone)
+Then from year 4 to 6, both the player and the team can arbitrage the salary. It is only from year 7 that a player becomes a 'free agent' and can have a contract with any team who can pay the most. For more details, please refer this research paper titled [Determinants of Major League Baseball Player Salaries](https://surface.syr.edu/cgi/viewcontent.cgi?article=1098&context=honors_capstone).
 
 Thank you for reading.
 

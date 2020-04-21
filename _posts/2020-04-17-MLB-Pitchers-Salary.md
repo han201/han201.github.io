@@ -41,14 +41,14 @@ I used EDA and Linear Regressions.
 
 Even a simple observation on top earners can give meaningful insights. For example, Max Scherzer earned the most among all MLB players including all pitchers with $42 MM compensation in 2019. He indeed has stellar stats: Among the top 10 earners, he pitched second most games (33), won the most (tied with another pitcher), has the most quality starts (throwing at least 6 innings with giving out not more than 3 earned runs), and also pitched the most inning (220). His ERA was also the second best, only 0.01 behind the best one among top 10 pitchers. In general, most of the top 10 pitchers had strong stats. Interestinly, all of them were starters.
 
-![Summary Stat1]({{ site.url }}/images/P2_Top_Earners.jpeg)
+![Summary Stat1]({{ site.url }}/images/P2_Top_Earners.png)
 
 * Distribution of Salary
 
 The distribution of the salaries for the sample pitchers were highly skewed right. For example, while the mean was $4.4 MM, the median was only $1.4 MM. While someoneneed to earn $22 MM to be in top 10, or $11 MM to be in top 40, the bottom 25% (90) earned less than $600K. Max Scherzer earned the most ($42 MM), while the minimnum salary for 2019 was $555K.
 
 
-![Summary Stat1]({{ site.url }}/images/P2_Mul_Salary_distribution.jpeg)
+![Summary Stat1]({{ site.url }}/images/P2_Mul_Salary_distribution.png)
 
 * OLS results using Statemodels
 
@@ -87,9 +87,9 @@ Also, error terms look randomly distributed after the log transformation, meanin
 
 #### Distribution of error terms
 
-![Summary Stat1]({{ site.url }}/images/P2_Before_Transformation.jpeg)
+![Summary Stat1]({{ site.url }}/images/P2_Before_Transformation.png)
 
-![Summary Stat1]({{ site.url }}/images/P2_after_Transformation.jpeg)
+![Summary Stat1]({{ site.url }}/images/P2_after_Transformation.png)
 
 
 * LASSO regularization

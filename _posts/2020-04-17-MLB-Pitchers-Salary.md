@@ -87,8 +87,11 @@ Also, error terms look randomly distributed after the log transformation, meanin
 
 #### Distribution of error terms
 
+* Distribution of errors from regressing raw Salary against features
+
 ![Summary Stat1]({{ site.url }}/images/P2_Before_Transformation.png)
 
+* Distribution of errors from regressing Log(Salary) after normalization and Log transformation
 ![Summary Stat1]({{ site.url }}/images/P2_after_Transformation.png)
 
 

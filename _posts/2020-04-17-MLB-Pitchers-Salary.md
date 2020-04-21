@@ -29,8 +29,6 @@ Which baseball stats influence the next year's salary for MLB pitchers the most?
 
 [2019 Salary](https://www.usatoday.com/sports/mlb/salaries/)
 
-![Image test]({{ site.url }}/images/Metis_proj2/watchyourwords.JPG)
-
 Ater merging two dataset, I got 360 samples 
 
 ## Methodology
@@ -43,11 +41,14 @@ I used EDA and Linear Regressions.
 
 Even a simple observation on top earners can give meaningful insights. For example, Max Scherzer earned the most among all MLB players including all pitchers with $42 MM compensation in 2019. He indeed has stellar stats: Among the top 10 earners, he pitched second most games (33), won the most (tied with another pitcher), has the most quality starts (throwing at least 6 innings with giving out not more than 3 earned runs), and also pitched the most inning (220). His ERA was also the second best, only 0.01 behind the best one among top 10 pitchers. In general, most of the top 10 pitchers had strong stats. Interestinly, all of them were starters.
 
-![Summary Stat1]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
+![Summary Stat1]({{ site.url }}/images/P2_Top_Earners.jpeg)
 
 * Distribution of Salary
 
 The distribution of the salaries for the sample pitchers were highly skewed right. For example, while the mean was $4.4 MM, the median was only $1.4 MM. While someoneneed to earn $22 MM to be in top 10, or $11 MM to be in top 40, the bottom 25% (90) earned less than $600K. Max Scherzer earned the most ($42 MM), while the minimnum salary for 2019 was $555K.
+
+
+![Summary Stat1]({{ site.url }}/images/P2_Mul_Salary_distribution.jpeg)
 
 * OLS results using Statemodels
 
@@ -82,7 +83,14 @@ STARTER: dummy variable for being a starter
 Only G, QS and SV had statistically significant coefficients with R^2 0.33
 They were all positively related with the logSalary.
 
-Also, the error term looked random, meaning that the OLS fits well.
+Also, error terms look randomly distributed after the log transformation, meaning that the OLS fits well.
+
+#### Distribution of error terms
+
+![Summary Stat1]({{ site.url }}/images/P2_Before_Transformation.jpeg)
+
+![Summary Stat1]({{ site.url }}/images/P2_after_Transformation.jpeg)
+
 
 * LASSO regularization
 
